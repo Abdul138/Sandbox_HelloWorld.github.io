@@ -8,6 +8,6 @@ Checklist
 
 To Do List ... a differernt organisation
 - [] this must be done still
-- [] this is done
+- [x] this is done
 - [] this must be done still
 ---
